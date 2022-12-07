@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(FONDO.jpg);
+    background: url(fondo.jpg);
     background-size: 2500px;
     background-repeat: no-repeat;
           
